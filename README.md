@@ -1,3 +1,5 @@
+### 我不是原作者，[https://howtocook.aiursoft.com/](https://howtocook.aiursoft.com/)为原以下作者内容原作者
+
 # 程序员做饭指南
 
 [![License](https://img.shields.io/github/license/Anduin2017/HowToCook)](./LICENSE)
