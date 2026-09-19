@@ -1,4 +1,4 @@
-### 我不是原作者，[https://howtocook.aiursoft.com/]([Anduin2017](https://github.com/Anduin2017/HowToCook)为原以下作者内容原作者
+### 我不是原作者，([Anduin2017](https://github.com/Anduin2017/HowToCook)为原作者
 
 # 程序员做饭指南
 
